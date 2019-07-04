@@ -13,6 +13,7 @@ public class Maven {
 //DFHHDGHTTHS
 		driver.get("https://connect.maveric-systems.com/");
 		driver.get("https://connect.maveric-systems.com/");
+		driver.get("https://connect.maveric-systems.com/");
 		
 		
 
